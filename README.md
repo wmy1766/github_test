@@ -24,6 +24,18 @@
 ![alt_test](http://news.samsungdisplay.com/wp-content/uploads/2018/08/8.jpg)
 
 
+첫번째줄(줄바꿈)
+***
+두번째줄
+- - -
+
+
+*강조*
+**강조**
+
+~~중간선~~
+
+
 
 ```
 def print()
